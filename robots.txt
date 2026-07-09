@@ -1,0 +1,11 @@
+# robots.txt — Bajrang Bhajiya and Gathiya
+# https://bajrangbhajiya.in/
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://bajrangbhajiya.in/sitemap.xml
+
+# Block irrelevant crawl paths (none currently — single-page site)
+Disallow: /assets/
